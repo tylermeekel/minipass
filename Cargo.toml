@@ -1,0 +1,14 @@
+[package]
+name = "micropass"
+version = "0.1.1"
+authors = ["Tyler Meekel <ty.meekel@gmail.com>"]
+license = "MIT OR Apache-2.0"
+description = "A tool to generate passwords"
+readme = "README.md"
+homepage = "https://github.com/tylermeekel/micropass"
+repository = "https://github.com/tylermeekel/micropass"
+keywords = ["cli", "random", "password", "cryptography"]
+categories = ["command-line-utilities"]
+
+[dependencies]
+blake2 = "0.10.4"
