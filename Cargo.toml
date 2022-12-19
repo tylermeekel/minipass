@@ -11,4 +11,4 @@ keywords = ["cli", "random", "password", "cryptography"]
 categories = ["command-line-utilities"]
 
 [dependencies]
-blake2 = "0.10.4"
+blake2 = "0.10.6"
